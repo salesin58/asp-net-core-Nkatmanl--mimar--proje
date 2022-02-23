@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\Acer\source\repos\personelasp\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb

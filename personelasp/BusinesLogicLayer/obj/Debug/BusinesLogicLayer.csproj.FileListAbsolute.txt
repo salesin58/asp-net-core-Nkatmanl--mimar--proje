@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\BusinesLogicLayer.dll
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\BusinesLogicLayer.pdb
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\ENTITYLAYER.dll
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.dll
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.pdb
+C:\Users\Acer\source\repos\personelasp\BusinesLogicLayer\obj\Debug\BusinesLogicLayer.csproj.CopyComplete
